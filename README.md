@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @AnATrOvO-TEC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AnATrOvO-TEC/AnATrOvO-TEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ana Luiza Trovo
+- 👀 I’m interested in ... learn new forms of existing commands
+- 🌱 I’m currently learning ... at TECPUC
